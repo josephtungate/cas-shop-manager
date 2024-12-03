@@ -7,7 +7,7 @@ The project contains a single piece of software which acts as both as a storefro
 
 This project was primarily an introduction to object oriented programming methods. The focus was on proper class design and interaction. Therefore, other aspects of the system such as the GUI, databases, and payment processing systems are primitive at best and were never indended as examples of real world practices.
 
-# What's that?
+# Contents
 This repository includes:
 * ClassDiagram.jpg - A UML class diagram showing all classes used in the system.
 * Jar - A directory containing the compiled program and accompanying flatfile databases:
